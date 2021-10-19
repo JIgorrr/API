@@ -1,0 +1,12 @@
+# API
+API CRUD EM NODEJS
+
+# Crie uma pasta na Área de Trabalho;
+# Depois acesse ela via CMD;
+# Dentro da pasta use o comando:
+npm  init 
+
+# Logo em seguida instele o express e suas dependências:
+npm install express
+
+# E pronto, acesse o seu editor e abra a pasta nele e comesse seu código.
